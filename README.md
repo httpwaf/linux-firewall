@@ -18,7 +18,7 @@ Linux进程防火墙主要用途是发现和防御服务器高级隐藏木马通
 #### 四、安装步骤
 支持Linux x86 64位系统（arm暂不开放），保证可以上网，以root权限运行下面命令：
 
-    1、 wget http://101.42.31.94/openhfw
+    1、 wget http://101.42.31.94/openhfw (每天限10个下载体验）
     2、 chmod +x ./openhfw
     3、 ./openhfw
 
